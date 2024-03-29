@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: 4e574032bf9be0f4fb2cc0b3338a55e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 233
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd57ee29fcde8e41a18b0de4d768945
+      internalID: -578064653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 233
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602926ad5c916b4439fb6ffa8b0f33a9
+      internalID: -524351020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 233
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189ba9340f9e8b149a581ae4e52f106b
+      internalID: -1125979282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 233
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6480d6a829b34fd48aed1bde30652471
+      internalID: 1231923703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 233
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a32707b926e460488a2cf1af754f346
+      internalID: 1142381734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 233
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92ea7c635dd8a40ba5267e49460de7
+      internalID: 1340274269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 233
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201403fc6fa226b4596a927c6c409f62
+      internalID: 1694008083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 179
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05095bfb70e30dc4798e4b9597cc81e8
+      internalID: 275599989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 179
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0ccc24a6abf3f4882cd59c06981daf
+      internalID: -6911971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 179
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72baab2f5be30d40a4c2a29679a326a
+      internalID: 1128802845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 179
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2e86b0ba685fb43a8ace38184adc06
+      internalID: 1880762469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 179
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5417021550107e34888ea92c15b6875c
+      internalID: -502951459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 179
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b54bc256960ad740806c66e0a746f39
+      internalID: -456474677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 179
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420e223574632d04a811cf39f97c90fd
+      internalID: -208402106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 179
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b6b37c33da43f4a9a566fe528ca10e
+      internalID: -67066992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 179
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb22e26979b4fc047afaa8c24b1b6880
+      internalID: 77498647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_16
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 179
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd71391581bf81345b843d50093c647e
+      internalID: -2015805306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_17
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 179
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf89943fbb416947859f46be3d56acd
+      internalID: -924743984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_18
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 179
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e78c70940098474ba72ef2229ce36c6
+      internalID: -1278707186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 179
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7fc887385171048a216707768c88cb
+      internalID: 421677498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fcded86c868cb4187f80bfb117a138
+      internalID: 187966995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 123
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774d360e3be7d9c49ab1f374e4ed6eea
+      internalID: 1706770547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 123
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a9e72cdc0ee0d4882be9a2b20b015e
+      internalID: -1501397048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 123
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b5bcb9e0302f84589cd5c76f56d86e
+      internalID: 1618428924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 123
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0dd6d8eb61fd44a80831d5e5a4221c
+      internalID: 1025338124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 123
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293963cb8225bed4a8f6daab8410e82f
+      internalID: 1964185048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 123
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d729c4d1be4b1e49a7c610fa7c10bd2
+      internalID: -335122861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 164
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ab265a328ef8d42a9470bdc6301ccb
+      internalID: -592565941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_28
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 123
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57b485a6458d28498f38de75687a95a
+      internalID: 1922260345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 164
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12832c559f663747bf20e71ed3be5a4
+      internalID: -1801850449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 124
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f018f301e60194aa8cb748b8183f30
+      internalID: -700324305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 124
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c9e7c6c048214eaed2d16dbb11460
+      internalID: 483987808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 123
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66796cdafabaa9d42a6767d791427fb8
+      internalID: -1587865734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 124
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6605428c191f3b64e92e9a1fc618938e
+      internalID: 1765920805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f18ad44af65ce94385d9520f13bb803
+      internalID: 710816989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 86
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf44ca799248b1f49bf0e0d566828e46
+      internalID: -329822563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 86
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a033ebf93e99c8488628b4a7facb8a0
+      internalID: 961928094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 69
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01365ded02ce024da0ecf73c1cc9934
+      internalID: -933296381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 69
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecbc94b1a0a83e4bbe023f693eaf6f6
+      internalID: 957397921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 71
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee0d79859b27724f9cb875a98c50f7a
+      internalID: -1360569924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_40
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 74
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6153fba24ff79f345a8d47192d785f9a
+      internalID: -1643031607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 57
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9b43a2ece426c4d830d9991a9cc32f
+      internalID: 47416510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c5707e6f09d64f8ab13ce3e5d1268
+      internalID: -1738671000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 3
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0252c166fe7fe4cbde7ab6ed54a7fc
+      internalID: 1171131152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_44
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 57
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0abfb69d435c0842b3401596b428104
+      internalID: -381469570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf44b8f2bde3f4443b67c4f7c0493ef5
+      internalID: -1754617225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 26
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a87210769a2ef741b3ee5ce465d1b61
+      internalID: 2146850215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 26
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9555efafb4a1aa24298297326ad81703
+      internalID: 371468722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_48
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 9
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55fbdfd551cb554d96cd6ef5367cf1d
+      internalID: -652546437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9d9a47389998141ad05f6976d14045
+      internalID: 1127112551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 9
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c0aed0bbaa3b14796bbc77a76af3af
+      internalID: -1215130384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_51
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 9
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a92e224b177f734c87f939e879240f5
+      internalID: 1578135585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_52
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 9
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d06b083a67b4b54e9e766b69c67ebc8
+      internalID: -1808368078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_53
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 9
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadc7b0aa4985514fb544429be5d91e3
+      internalID: 1534227401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_0: -578064653
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_1: -524351020
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_10: 1880762469
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_11: -502951459
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_12: -456474677
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_13: -208402106
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_14: -67066992
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_15: 77498647
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_16: -2015805306
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_17: -924743984
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_18: -1278707186
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_19: 421677498
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_2: -1125979282
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_20: 187966995
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_21: 1706770547
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_22: -1501397048
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_23: 1618428924
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_24: 1025338124
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_25: 1964185048
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_26: -335122861
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_27: -592565941
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_28: 1922260345
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_29: -1801850449
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_3: 1231923703
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_30: -700324305
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_31: 483987808
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_32: -1587865734
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_33: 1765920805
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_34: 710816989
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_35: -329822563
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_36: 961928094
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_37: -933296381
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_38: 957397921
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_39: -1360569924
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_4: 1142381734
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_40: -1643031607
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_41: 47416510
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_42: -1738671000
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_43: 1171131152
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_44: -381469570
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_45: -1754617225
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_46: 2146850215
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_47: 371468722
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_48: -652546437
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_49: 1127112551
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_5: 1340274269
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_50: -1215130384
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_51: 1578135585
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_52: -1808368078
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_53: 1534227401
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_6: 1694008083
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_7: 275599989
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_8: -6911971
+      goku_end_of_z__sprite_sheet__by_evildragon844_deujdrn_9: 1128802845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
